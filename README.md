@@ -2,7 +2,7 @@
 
 ## Proyecto de Investigación de Tesis
 
-<img src="https://infotec.mx/work/models/Infotec/2019/img/logo_infotec.png" alt="Logo de INFOTEC"/>
+![Logo de INFOTEC](https://infotec.mx/work/models/Infotec/2019/img/logo_infotec.png)
 
 ## Maestría en Ciencia de Datos e Información
 
