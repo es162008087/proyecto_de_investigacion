@@ -4,7 +4,9 @@
 
 ![Logo de INFOTEC](https://infotec.mx/work/models/Infotec/2019/img/logo_infotec.png)
 
-![Logo de INFOTEC](https://infotec.mx/work/models/Infotec/2019/img/logo_infotec.png?raw=true "Logo de INFOTEC")
+![Logo de INFOTEC](infotec.mx/work/models/Infotec/2019/img/logo_infotec.png?raw=true "Logo de INFOTEC")
+
+<img src="https://infotec.mx/work/models/Infotec/2019/img/logo_infotec.png">
 
 ## Maestría en Ciencia de Datos e Información
 
