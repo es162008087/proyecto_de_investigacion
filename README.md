@@ -2,6 +2,11 @@
 
 ## Proyecto de Investigación de Tesis
 
+<figure>
+<img src="https://infotec.mx/work/models/Infotec/2019/img/logo_infotec.png" alt="Logo de INFOTEC"/>
+<figure-caption>Figure 1. Logo de INFOTEC</figure-caption>
+</figure>
+
 ## Maestría en Ciencia de Datos e Información
 
 ## Alvaro Miguel Toriz Proenza
