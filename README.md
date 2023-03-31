@@ -18,4 +18,4 @@ Este repositorio contiene los siguientes elementos del proyecto:
 
 El enlace es el siguiente:
 
-Pendiente.
+[Avances de tesis de maestría 30 marzo 2023](https://youtu.be/bF51B1qOYIo)
