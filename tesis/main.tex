@@ -1,0 +1,57 @@
+
+\documentclass[12pt]{report}
+\usepackage{head}
+
+\begin{document}
+% Para actualizar la presentación de acuerdo al posgrado, modificar el archivo portada.tex
+\input{portada}
+
+\input{autorizacion}
+	
+\input{agradecimientos}
+%---------------------------
+% Tabla de contenido
+%---------------------------
+\tableofcontents
+
+\input{indice_figuras}
+
+\input{indice_cuadros}
+
+\input{siglas_abreviaturas}
+
+\input{glosario}
+
+%-----Formato de Título -------%
+\titleformat{\chapter}
+  {\color{blue}\normalfont\LARGE\bfseries}{\thechapter}{1em}{}
+\titlespacing*{\chapter}{0pt}{-50pt}{40pt}
+%-------------------------------
+
+\cleardoublepage
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\input{intro}
+%-------------------------------
+% Capítulo 1
+%-------------------------------
+\input{cap1}
+%-------------------------------
+% Capítulo 2
+%-------------------------------
+\input{cap2}
+%-------------------------------
+% Capítulo 3
+%-------------------------------
+\input{cap3}
+
+\input{conclusiones}
+
+\input{bibliografia}
+
+\input{apendice}
+
+\printindex
+
+\end{document}

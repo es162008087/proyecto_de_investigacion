@@ -1,0 +1,70 @@
+%-----------------------------
+%  Paquetería
+%-----------------------------
+% Paquetes relacionados con la imagen
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage[utf8]{inputenc}
+\usepackage[export]{adjustbox}
+\usepackage{wrapfig}
+%------------------------------
+\usepackage{lmodern}
+\usepackage[T1]{fontenc}
+\usepackage[scaled]{helvet}
+\usepackage[spanish,activeacute]{babel}
+\usepackage{mathtools}
+\usepackage{authblk}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{fourier}
+\usepackage{lipsum}
+\usepackage{etoolbox}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{cite}
+\usepackage{vmargin}
+\usepackage{csquotes}
+\usepackage{fancyhdr}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{setspace}
+\usepackage[automake]{glossaries}
+% Paquetes relacionados con cuadros
+\usepackage{array}
+%-------------------------------------------------------
+\usepackage{watermark}
+\usepackage{titlesec}
+\usepackage{imakeidx}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    linktoc=all
+}
+
+\definecolor{blue}{RGB}{0,112,192}
+
+\titleformat{\chapter}[display]
+  {\color{blue}\normalfont\huge\bfseries\filcenter}{\chaptertitlename\ \thechapter}{16pt}{\huge}
+\titlespacing*{\chapter}
+  {0pt}{-50pt}{40pt}
+
+\addto\captionsspanish{\renewcommand{\contentsname}{Tabla de contenido}} % Cambio de nombre del índice
+\addto\captionsspanish{\renewcommand{\abstractname}{}} % Cambio de nombre de la introducción
+
+\makeglossaries
+\makeindex
+
+\renewcommand{\baselinestretch}{1.5} %interlineado 1.5
+
+
+% Cambios propuestos por Omar Piña 2020.02.24
+\graphicspath{{./images/}}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\decimalpoint
+\usepackage{parskip}
+\setlength\parindent{0pt}
+\usepackage{longtable}
+

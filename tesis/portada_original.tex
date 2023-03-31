@@ -1,0 +1,51 @@
+%------------------------------
+% Hoja en blanco.
+%------------------------------
+\newpage{\ }
+\thispagestyle{empty}
+% Modificar el nombre archivo para seleccionar el posgrado (ver en carpeta "images")
+\thiswatermark{\centering \put(-90,-775){\includegraphics[width=\paperwidth,height=\paperheight]{mcdi.png}}}
+
+%------------------------------
+% Portada
+%------------------------------
+\begin{titlepage}
+% Modificar el nombre archivo para seleccionar el posgrado (ver en carpeta "images")
+\thiswatermark{\centering \put(-100,-775){\includegraphics[width=\paperwidth,height=\paperheight]{mcdi1.png}}}
+%-------------------------------------
+% Se tendrá que respetar este
+% orden en cuanto a los títulos,
+% así como la posición del logo de
+% INFOTEC
+%-------------------------------------
+
+\begin{textblock*}{9.5cm}(3cm,8cm) % {block width} (coords) 
+	\renewcommand{\baselinestretch}{1}
+   \flushright\normalsize\textcolor{gray}{INFOTEC CENTRO DE INVESTIGACIÓN E INNOVACIÓN EN TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN}
+\end{textblock*}
+
+\begin{textblock*}{8cm}(16cm,8cm) % {block width} (coords) 
+	\renewcommand{\baselinestretch}{1}
+	\flushleft\footnotesize\textcolor{gray}{DIRECCIÓN ADJUNTA DE INNOVACIÓN Y CONOCIMIENTO}\par
+	\textcolor{gray}{GERENCIA DE CAPITAL HUMANO} \par
+	\textcolor{gray}{POSGRADOS}
+\end{textblock*}
+
+\begin{textblock*}{8cm}(5cm, 14cm)
+	\renewcommand{\baselinestretch}{1}
+	\center\Huge\textcolor{gray}{\textbf{NOMBRE DEL PROYECTO}}
+\end{textblock*}
+
+\begin{textblock*}{10cm}(13cm, 16cm)
+	\renewcommand{\baselinestretch}{1}
+	\flushleft\normalsize\textcolor{gray}{(Tipo de proyecto)\newline Que para obtener el grado de MAESTRO EN CIENCIAS DE DATOS E INFORMACIÓN}
+	\vspace{2em}
+	\flushleft\normalsize\textcolor{gray}{Presenta:}\par
+	\flushleft\normalsize\textcolor{gray}{\textbf{(Nombre y Apellidos)}}
+	\flushleft\normalsize\textcolor{gray}{Asesor:}\par
+	\flushleft\normalsize\textcolor{gray}{\textbf{(Nombre y apellidos)}}\par
+	\vspace{8em}
+	\flushleft\normalsize\textcolor{gray}{Ciudad de México, mes, año}\par
+\end{textblock*}
+\end{titlepage}
+\newpage{\ }

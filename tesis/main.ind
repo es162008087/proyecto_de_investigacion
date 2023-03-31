@@ -1,0 +1,9 @@
+\begin{theindex}
+
+  \item hello, \hyperpage{4}
+
+  \indexspace
+
+  \item world, \hyperpage{4}
+
+\end{theindex}
