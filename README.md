@@ -13,9 +13,9 @@ Este repositorio contiene los siguientes elementos del proyecto:
 1. Notebook con el código de los experimentos.
 
 2. Código LaTeX con el documento de Tesis.
+   Ruta al documento con la versión final de mi trabajo escrito:
+   https://github.com/seminario-proyectos-infotec/Upstate7501/blob/master/tesis/main.pdf
 
-3. Enlace al video de los cambios más recientes al proyecto.
-
-El enlace es el siguiente:
-
-[Avances de tesis de maestría 30 marzo 2023](https://youtu.be/bF51B1qOYIo)
+3. Enlaces a videos de las presentaciones que vayan llevando a cabo:
+   El enlace al primer video es el siguiente:
+   [Avances de tesis de maestría 30 marzo 2023](https://youtu.be/bF51B1qOYIo)
