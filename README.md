@@ -1,25 +1,17 @@
-# DETECCIÓN DE SPAM DE EMAIL MEDIANTE APRENDIZAJE AUTOMÁTICO
+# Detección de Spam de Email mediante Aprendizaje Automático
 
-## Proyecto de Investigación de Tesis
+**Alvaro Miguel Toriz Proenza**
 
-![logo_infotec](https://user-images.githubusercontent.com/28538336/228002081-1897cf08-2705-4478-894d-b54b7a33c844.png)
+*atorizp@gmail.com*
 
-## Maestría en Ciencia de Datos e Información
+## Revisores
 
-## Alvaro Miguel Toriz Proenza
+*   Revisor 1: Dr. Daniel Alejandro Cervantes Cabrera, *daniel.cervantes@infotec.mx*
+*   Revisor 2: **Sin Asignar**
 
-Este repositorio contiene los siguientes elementos del proyecto:
+## Entregables
 
-1. Notebook con el código de los experimentos.
+*   [Trabajo escrito (versión más reciente en PDF)](https://github.com/seminario-proyectos-infotec/Upstate7501/blob/master/tesis/main.pdf)
+*   [Presentación inicial del trabajo (primera entrega, antes de retroalimentación de los revisores)](https://youtu.be/bF51B1qOYIo)
+*   [Presentación del trabajo corregido (tercera entrega, después de retroalimentación de los asesores)]()
 
-2. Código LaTeX con el documento de Tesis
-
-   Ruta al documento con la versión final de mi trabajo escrito:
-   
-   [main.pdf] (https://github.com/seminario-proyectos-infotec/Upstate7501/blob/master/tesis/main.pdf)
-
-3. Enlaces a videos de las presentaciones que vayan llevando a cabo:
-
-   El enlace al primer video es el siguiente:
-   
-   [Avances de tesis de maestría 30 marzo 2023](https://youtu.be/bF51B1qOYIo)
