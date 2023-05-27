@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.3.19)  25 MAR 2023 06:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.3.19)  27 MAY 2023 08:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1273,10 +1273,9 @@ l.37
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.57 \section{Creación de la base de datos}
-                                             [5]) (./cap2.texpdfTeX warning (ex
-t4): destination with the same identifier (name{page.6}) has been already used,
- duplicate ignored
+l.53 
+      [5]) (./cap2.texpdfTeX warning (ext4): destination with the same identifi
+er (name{page.6}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.4 \newpage
@@ -1356,7 +1355,7 @@ Here is how much of TeX's memory you used:
 e/texmf-dist/fonts/type1/adobe/utopia/putb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/adobe/utopia/putr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /adobe/utopia/putri8a.pfb>
-Output written on main.pdf (25 pages, 237539 bytes).
+Output written on main.pdf (25 pages, 237242 bytes).
 PDF statistics:
  285 PDF objects out of 1000 (max. 8388607)
  248 compressed objects within 3 object streams
